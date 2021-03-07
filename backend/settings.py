@@ -134,5 +134,5 @@ STATICFILES_DIRS = (
 )
 
 CORS_ORIGIN_WHITELIST = [
-     'http://localhost:3000','aido-backend.herokuapp.com'
+     'http://localhost:3000','https://aido-back.herokuapp.com'
 ]
